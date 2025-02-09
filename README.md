@@ -25,5 +25,3 @@ After deployment, access the weather forecast application using the URL provided
 
 Cleanup
 Instructions to destroy the resources created by Terraform.
-
-This description provides an overview of the repository, its features, prerequisites, setup instructions, and how to access and clean up the application.
